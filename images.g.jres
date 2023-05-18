@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAD//wAAAAAA8DuzDwAPAPA/MzP78PsAvzMzM/O/+/A7MzOzv7/78DMzMzMz+/u/MzMzMzP7+z8zMzMzM/MPPzMzMzMz8w8/M/P/MzPzD78zMzMzP/P/8DPz/zMz+/vwOzMzO7O/+wD/uzO7/7/7AAD/MzP78PsAAAD//w8ADw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Kirby standing still"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
