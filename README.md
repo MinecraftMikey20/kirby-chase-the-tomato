@@ -31,3 +31,5 @@ This image may take a few minutes to refresh.
 
 * for PXT/arcade
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+please provide copyright to me when you edit the source and repubish it!
